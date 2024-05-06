@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hello Word, It's me, Enzo Di Santo 👨‍💻
+  Hello World, It's me, Enzo Di Santo 👨‍💻
 </h1>
 
 <p align='center'>
