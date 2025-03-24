@@ -7,19 +7,14 @@
 </p>
 <p align='center'>
 
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/enzodds/">
-    <img src="https://img.shields.io/badge/LinkedIn-orange" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/enzodisanto">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=orange" alt="GitHub" />
-  </a>
-  <a href="https://github.com/enzodisanto">
-    <img src="https://badges.pufler.dev/visits/enzodisanto/enzodisanto?style=for-the-badge&color=0d1117&logoColor=orange" alt="Visits Badge" />
-  </a>
+<p align='center'>
+<a href="https://github.com/enzodisanto">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/enzodisanto/&count_bg=%23FFA500&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false" alt="Visit Counter" />
+</a>
 </p>
-
+<p align='center'>
 
 <table align="center">
   <tr>
@@ -32,4 +27,19 @@
   </tr>
 </table>
 
- 
+<p align="center">
+  <a href="https://www.linkedin.com/in/enzodds/">
+    <img src="https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://gitlab.com/enzodisanto">
+    <img src="https://img.shields.io/badge/Gitlab-100000?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab" />
+  </a>
+  <a href="https://instagram.com/enzodisanto">
+    <img src="https://img.shields.io/badge/instagram-100000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+<a href="https://github.com/enzodisanto">
+    <img src="https://badges.pufler.dev/visits/enzodisanto/enzodisanto?style=for-the-badge&color=FF6200&logoColor=white" alt="Visits Badge" />
+</a>
