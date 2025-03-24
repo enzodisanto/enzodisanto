@@ -16,7 +16,7 @@
 
 <p align='center'>
 <a href="https://github.com/enzodisanto">
-    <img src="https://badges.pufler.dev/visits/enzodisanto/enzodisanto?style=for-the-badge&color=FF6200&logoColor=white" alt="Visits Badge" /></a>
+    <img src="https://badges.pufler.dev/visits/enzodisanto/enzodisanto?style=for-the-badge&color=%23FFA500&logoColor=white" alt="Visits Badge" /></a>
 </p>
 <p align='center'>
 
