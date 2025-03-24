@@ -8,9 +8,15 @@
 <p align='center'>
 
 <p align='center'>
+<!--
 <a href="https://github.com/enzodisanto">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/enzodisanto/&count_bg=%23FFA500&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false" alt="Visit Badge" />
+    <img src="https://badges.pufler.dev/visits/enzodisanto/enzodisanto?style=for-the-badge&color=FF6200&logoColor=white" alt="Visits Badge" />
 </a>
+-->
+
+<p align='center'>
+<a href="https://github.com/enzodisanto">
+    <img src="https://badges.pufler.dev/visits/enzodisanto/enzodisanto?style=for-the-badge&color=FF6200&logoColor=white" alt="Visits Badge" /></a>
 </p>
 <p align='center'>
 
