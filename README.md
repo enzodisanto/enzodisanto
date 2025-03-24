@@ -25,18 +25,18 @@
   </tr>
 </table>
 
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/enzodds/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/linkedin-%23FFA500?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
+  
   <a href="https://gitlab.com/enzodisanto" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/gitlab-%23FFA500?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   </a>&nbsp;
+  
   <a href="https://instagram.com/enzodisanto" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/instagram-%23FFA500?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  </a>&nbsp;
 </p>
 
 <!--
